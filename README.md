@@ -1,1 +1,1 @@
-# real time projects are pushed into github
+# How real time projects are pushed into github
